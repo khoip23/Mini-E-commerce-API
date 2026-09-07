@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\DEV\\Mini E-commerce-API\\MEC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE89AB8A-6B4D-4A7D-8231-12ADE6160EFE}|MEC\\MEC.csproj|c:\\dev\\mini e-commerce-api\\mec\\mec\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{EE89AB8A-6B4D-4A7D-8231-12ADE6160EFE}|MEC\\MEC.csproj|solutionrelative:mec\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE89AB8A-6B4D-4A7D-8231-12ADE6160EFE}|MEC\\MEC.csproj|c:\\dev\\mini e-commerce-api\\mec\\mec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EE89AB8A-6B4D-4A7D-8231-12ADE6160EFE}|MEC\\MEC.csproj|solutionrelative:mec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 553,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\DEV\\Mini E-commerce-API\\MEC\\MEC\\.gitignore",
-              "RelativeDocumentMoniker": "MEC\\.gitignore",
-              "ToolTip": "C:\\DEV\\Mini E-commerce-API\\MEC\\MEC\\.gitignore",
-              "RelativeToolTip": "MEC\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-07T05:52:44.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\DEV\\Mini E-commerce-API\\MEC\\MEC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MEC\\Properties\\launchSettings.json",
               "ToolTip": "C:\\DEV\\Mini E-commerce-API\\MEC\\MEC\\Properties\\launchSettings.json",
               "RelativeToolTip": "MEC\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-09-07T05:42:30.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\DEV\\Mini E-commerce-API\\MEC\\MEC\\appsettings.json",
               "RelativeDocumentMoniker": "MEC\\appsettings.json",
